@@ -5,7 +5,7 @@ import App from './App';
 import {
 	MantineProvider,
 	ColorSchemeProvider,
-	ColorScheme,
+	ColorScheme
 } from '@mantine/core';
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
